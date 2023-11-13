@@ -9,7 +9,7 @@
 
 **Click here for the Repo**
 
-My current project focus is Serenity, which will be a desktop front-end for the End to End Encrypted Chat App Powerline, maintained by Ben Barber at this repo.
+My current project focus is Serenity, which will be a desktop front-end for the End to End Encrypted Chat App Powerline, maintained by Ben Barber at [this repo.](https://github.com/ComfyTopHat/Powerline)
 
 Powerline runs on a Python API, and the current Android App is running with Kotlin. 
 
