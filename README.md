@@ -9,11 +9,11 @@
 
 **Click here for the Repo**
 
-My current project focus is Outlet, which will be a desktop front-end for the End to End Encrypted Chat App Powerline, maintained by Ben Barber at this repo.
+My current project focus is Serenity, which will be a desktop front-end for the End to End Encrypted Chat App Powerline, maintained by Ben Barber at this repo.
 
 Powerline runs on a Python API, and the current Android App is running with Kotlin. 
 
-Outlet is largely just a front end executable to run on desktop. It started life as a Laravel Web-app but was eventually swapped over to C# after it was concluded a web-app would most likely be unnecessary.
+Serenity is largely just a front end executable to run on desktop. It started life as a Laravel Web-app called Outlet but was eventually swapped over to C# after it was concluded a web-app would most likely be unnecessary.
 ## Fiftybit.chat
 
 ### Stack: React Web App running on a PHP Native API, Database with PostGreSQL.
