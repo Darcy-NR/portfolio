@@ -2,7 +2,7 @@
 # Nicholas Darcy – Portfolio of Projects
 ---
 
-## Serenity (A Powerline Frontend) – CURRENT
+## Serenity (A Powerline Frontend)
 ### Stack: C# Desktop Frontend for a Python Web API
 
 ![So Much Serenity](serenity.JPG)
