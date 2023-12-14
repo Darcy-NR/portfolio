@@ -4,7 +4,7 @@
 ## How do you What's New?
 ### Systems Analysis and Data Analysis.
 
-![Survey Graphs]([serenity.JPG](https://i.imgur.com/o6eqiDQ.jpeg))
+![Survey Graphs](https://i.imgur.com/o6eqiDQ.jpeg)
 
 A project I helped with at with the BA department at Charles Sturt University. I undertook some Systems Analysis roles, meeting with developers, and stakeholders to revitalize an aging legacy web-app the faculty use for bulletin board posting.
 
