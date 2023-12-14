@@ -4,13 +4,11 @@
 ## How do you What's New?
 ### Systems Analysis and Data Analysis.
 
+![Survey Graphs]([serenity.JPG](https://i.imgur.com/o6eqiDQ.jpeg))
+
 A project I helped with at with the BA department at Charles Sturt University. I undertook some Systems Analysis roles, meeting with developers, and stakeholders to revitalize an aging legacy web-app the faculty use for bulletin board posting.
 
 It was a pretty indepth experience, culiminating in a wide survey of users, and data analysis of the End-Users to identify user behaviors, posting behaviors, browsing behaviors and help model how the replacement software would have to address these user demographics.
-
-## Fiftybit.chat
-
-### Stack: React Web App running on a PHP Native API, Database with PostGreSQL.
 
 ## Serenity (A Powerline Frontend)
 ### Stack: C# Desktop Frontend for a Python Web API
