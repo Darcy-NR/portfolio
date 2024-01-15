@@ -1,6 +1,15 @@
 
 # Nicholas Darcy – Portfolio of Projects
 ---
+## Form Test Automation
+### Selenium, Automation Testing, Junit, Java
+
+![Selenium Code](seleniumicon.JPG)
+
+[Click here for the Repo](https://github.com/Darcy-NR/Selenium-Auto-Test)
+
+Realized over the holidays that I had nothing to prove I knew Selenium and that I needed more Java stuff on here so I wrote up some Selenium and JUNIT automated tests with some random generated usernames, and job titles and pointed it to Formy.Heroku for using their dummy forms as a validator.
+
 ## How do you What's New?
 ### Systems Analysis and Data Analysis.
 
