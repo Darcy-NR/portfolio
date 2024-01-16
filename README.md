@@ -8,7 +8,7 @@
 
 [Click here for the Repo](https://github.com/Darcy-NR/Selenium-Auto-Test)
 
-Realized over the holidays that I had nothing to prove I knew Selenium and that I needed more Java stuff on here so I wrote up some Selenium and JUNIT automated tests with some random generated usernames, and job titles and pointed it to Formy.Heroku for using their dummy forms as a validator.
+Realized over the holidays that I had nothing to prove I knew Selenium and that I needed more Java stuff on here so I wrote up some Selenium and JUNIT automated tests with some random generated usernames, and job titles and pointed it to Formy.Heroku for using their dummy forms as a validator. It also has a script to run a Shodan scrape, takes a table and console logs the data in the results table.
 
 ## How do you What's New?
 ### Systems Analysis and Data Analysis.
