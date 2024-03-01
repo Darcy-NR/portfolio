@@ -1,4 +1,4 @@
-
+![image](https://github.com/Darcy-NR/portfolio/assets/109012247/b88e24f7-ca4d-4d89-bf6e-4f07263f297c)
 # Nicholas Darcy – Portfolio of Projects
 ---
 ## Pleasant-Town: Part One -- Pleasance vs Convienience
@@ -11,9 +11,9 @@ Part of a major hobby project of mine. My goal is to develop a full simulation o
 ## MedicalJeannie
 ### Project Management, Agile and Scrum
 
-![](https://drive.google.com/file/d/187m-O-Y38mhwDj3CXc_wvCn4uJ6bttg9/view?usp=sharing.mp4)
+![Medical Jeannie](https://i.imgur.com/L3IK6Hg.png)
 
-Major project to upgrade a hypthetical company's data and software solution, purely within the context of an Agile SCRUM enviroment.
+Major project to upgrade a hypthetical company's data and software solution, purely within the context of an Agile SCRUM enviroment. Mostly helped with designing the API as a SEO for this project, and helped with the Machine Learning strategy.
 
 ## Form Test Automation
 ### Selenium, Automation Testing, Junit, Java
