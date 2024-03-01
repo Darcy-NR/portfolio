@@ -11,7 +11,7 @@ Part of a major hobby project of mine. My goal is to develop a full simulation o
 ## MedicalJeannie
 ### Project Management, Agile and Scrum
 
-![](https://drive.google.com/file/d/187m-O-Y38mhwDj3CXc_wvCn4uJ6bttg9/view?usp=sharing)
+![](https://drive.google.com/file/d/187m-O-Y38mhwDj3CXc_wvCn4uJ6bttg9/view?usp=sharing.mp4)
 
 Major project to upgrade a hypthetical company's data and software solution, purely within the context of an Agile SCRUM enviroment.
 
