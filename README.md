@@ -8,7 +8,7 @@
 
 Part of a major hobby project of mine. My goal is to develop a full simulation of a city and it's citizens in order to test and see if certain factors guarentee better success or customer rate based on factors such as aesthetics or accessibility. This was part one, devised via surveys, and includes a potential expression to use for the decision making algorithm. Further parts for this are ongoing, I hope to have this project completed by the end of 2024.
 
-## MedicalJeannie
+## Medical Jeannie
 ### Project Management, Agile and Scrum
 
 ![Medical Jeannie](https://i.imgur.com/L3IK6Hg.png)
