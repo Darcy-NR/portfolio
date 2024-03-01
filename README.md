@@ -1,4 +1,3 @@
-![image](https://github.com/Darcy-NR/portfolio/assets/109012247/b88e24f7-ca4d-4d89-bf6e-4f07263f297c)
 # Nicholas Darcy – Portfolio of Projects
 ---
 ## Pleasant-Town: Part One -- Pleasance vs Convienience
