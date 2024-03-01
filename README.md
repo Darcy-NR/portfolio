@@ -1,6 +1,20 @@
 
 # Nicholas Darcy – Portfolio of Projects
 ---
+## Pleasant-Town: Part One -- Pleasance vs Convienience
+### Data Analysis, Algorithm Expression Design
+
+![Screenshot of part one](https://i.imgur.com/CoSWP46.jpeg)
+
+Part of a major hobby project of mine. My goal is to develop a full simulation of a city and it's citizens in order to test and see if certain factors guarentee better success or customer rate based on factors such as aesthetics or accessibility. This was part one, devised via surveys, and includes a potential expression to use for the decision making algorithm. Further parts for this are ongoing, I hope to have this project completed by the end of 2024.
+
+## MedicalJeannie
+### Project Management, Agile and Scrum
+
+![Outline Video](https://drive.google.com/file/d/187m-O-Y38mhwDj3CXc_wvCn4uJ6bttg9/view?usp=sharing)
+
+Major project to upgrade a hypthetical company's data and software solution, purely within the context of an Agile SCRUM enviroment.
+
 ## Form Test Automation
 ### Selenium, Automation Testing, Junit, Java
 
