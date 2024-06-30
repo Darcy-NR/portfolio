@@ -1,14 +1,18 @@
-
 # Nicholas Darcy – Portfolio of Projects
 ---
-## Captain America CS
-### C#, ASP.NET, Full Stack Web-App
+## Pleasant-Town: Part One -- Pleasance vs Convienience
+### Data Analysis, Algorithm Expression Design
 
-![.NET Code](CaptainAmerica.JPG)
+![Screenshot of part one](https://i.imgur.com/CoSWP46.jpeg)
 
-[Click here for the Repo](https://github.com/Darcy-NR/Captain-America-cs-public)
+Part of a major hobby project of mine. My goal is to develop a full simulation of a city and it's citizens in order to test and see if certain factors guarentee better success or customer rate based on factors such as aesthetics or accessibility. This was part one, devised via surveys, and includes a potential expression to use for the decision making algorithm. Further parts for this are ongoing, I hope to have this project completed by the end of 2024.
 
-Incredibly simple web-app that takes several input strings and returns a page with a template based on the input to help automate some emails. This is honestly a little hilariously overbuilt, truthfully this should probably be a CLI application but I figured since I was building this in C# I might as well just make it into an ASP.NET webapp seeing as it's not *that* much more work to do it and I can put it on my portfolio.
+## Medical Jeannie
+### Project Management, Agile and Scrum
+
+![Medical Jeannie](https://i.imgur.com/L3IK6Hg.png)
+
+Major project to upgrade a hypthetical company's data and software solution, purely within the context of an Agile SCRUM enviroment. Mostly helped with designing the API as a SEO for this project, and helped with the Machine Learning strategy.
 
 ## Form Test Automation
 ### Selenium, Automation Testing, Junit, Java
@@ -17,7 +21,7 @@ Incredibly simple web-app that takes several input strings and returns a page wi
 
 [Click here for the Repo](https://github.com/Darcy-NR/Selenium-Auto-Test)
 
-Realized over the holidays that I had nothing to prove I knew Selenium and that I needed more Java stuff on here so I wrote up some Selenium and JUNIT automated tests with some random generated usernames, and job titles and pointed it to Formy.Heroku for using their dummy forms as a validator.
+Realized over the holidays that I had nothing to prove I knew Selenium and that I needed more Java stuff on here so I wrote up some Selenium and JUNIT automated tests with some random generated usernames, and job titles and pointed it to Formy.Heroku for using their dummy forms as a validator. It also has a script to run a Shodan scrape, takes a table and console logs the data in the results table.
 
 ## How do you What's New?
 ### Systems Analysis and Data Analysis.
@@ -35,7 +39,7 @@ It was a pretty indepth experience, culiminating in a wide survey of users, and 
 
 [Click here for the Repo](https://github.com/Darcy-NR/Serenity)
 
-My current project focus is Serenity, which will be a desktop front-end for the End to End Encrypted Chat App Powerline, maintained by Ben Barber at [this repo.](https://github.com/ComfyTopHat/Powerline)
+Serenity was a desktop front-end for the End to End Encrypted Chat App Powerline, maintained by Ben Barber at [this repo.](https://github.com/ComfyTopHat/Powerline)
 
 Powerline runs on a Python API, and the current Android App is running with Kotlin. 
 
