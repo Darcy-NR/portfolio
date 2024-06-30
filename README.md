@@ -3,7 +3,7 @@
 ## Captain America CS
 ### C#, ASP.NET, Full Stack Web-App
 
-![.NET Code](CaptainAmerica.JPG)
+![.NET Code](CaptainAmerica.jpg)
 
 [Click here for the Repo](https://github.com/Darcy-NR/Captain-America-cs-public)
 
